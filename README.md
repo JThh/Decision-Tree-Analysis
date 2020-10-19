@@ -1,12 +1,8 @@
 # Decision-Tree-Analysis
+
+_Datasets and questions are credited to BT2101 (Business Analytics for Decision Making, Prof. Setiono, Ruby)_
+
 This notebook focuses on the decision tree mechanism and its variations through real-world data processing and comparisons.
-
-Dataset and questions are credited to BT2101 (Business Analytics for Decision Making, Prof. Setiono, Ruby)
-
-
-# Decision Tree Analysis
-
-Author: Han Jiatong
 
 ## Discussion Question 1:  
 
@@ -229,8 +225,5 @@ Compared to: (no research conducted thus no information acquired)
 $$E_{major} = 30 \quad E_{minor} = 20 \quad E_{nothing} = 0$$
   
 Apparently the best course of action is to carry out the market research.
-
-
-
 
 
